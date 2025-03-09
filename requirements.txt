@@ -1,0 +1,6 @@
+wikipedia-api
+wikipedia
+sentence-transformers
+faiss-cpu
+openai
+numpy
